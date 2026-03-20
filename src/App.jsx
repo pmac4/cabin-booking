@@ -3,7 +3,7 @@ import { createClient } from "@supabase/supabase-js";
 
 const SUPABASE_URL = "https://oscdvtsfultfmjcyrhtn.supabase.co";
 const SUPABASE_ANON_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im9zY2R2dHNmdWx0Zm1qY3lyaHRuIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzQwMTY2MjEsImV4cCI6MjA4OTU5MjYyMX0.j5ecr5L2XxOY2921SeE54xpABthpH2Ub5Yw_TGeHNsk";
-const ADMIN_PIN = "1234"; // Change this to your preferred PIN
+const ADMIN_PIN = "0408"; // Change this to your preferred PIN
 const MONTHS_TO_SHOW = 6;
 
 const supabase = createClient(SUPABASE_URL, SUPABASE_ANON_KEY);
