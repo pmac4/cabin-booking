@@ -232,7 +232,7 @@ export default function App() {
       {/* Header */}
       <div style={S.header}>
         <div style={S.treeLine}>🌲🌲🌲</div>
-        <h1 style={S.title}>The Putnam Valley Cabin</h1>
+        <h1 style={S.title}>The McThomas Guest Suite</h1>
         <p style={S.subtitle}>Check a weekend. Put in a request. We'll take it from there.</p>
       </div>
 
